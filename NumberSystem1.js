@@ -14,3 +14,5 @@ function printBiggerNumber(num1, num2) {
   printBiggerNumber(50, 70); // Output: 70 is the bigger number.
  
   
+
+
